@@ -42,9 +42,9 @@ cuda compilation parameter 'arch=compute_86,code=sm_86' or add a '-gencode arch=
 ### Compile APD-MVS
 
 ```  sh
-git clone https://github.com/whoiszzj/APD-MVS.git
+git clone https://github.com/hecodeit/APD-MVS.git
 cd APD-MVS
-mkdir build & cd build
+mkdir build && cd build
 cmake ..
 make
 ```
