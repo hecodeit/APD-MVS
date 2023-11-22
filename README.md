@@ -1,4 +1,14 @@
 # APD-MVS
+
+## Install
+
+```
+apt update
+apt install libopencv-dev python3-opencv cmake libboost-all-dev
+apt install p7zip-full
+```
+
+
 ## About
 
 APD-MVS is an MVS method that adopts adaptive patch deformation and an NCC-based matching metric. 
